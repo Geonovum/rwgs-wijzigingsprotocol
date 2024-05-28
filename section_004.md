@@ -1,11 +1,14 @@
 # Inleiding {#7CA4157F}
+
 ## Dit onderdeel is niet normatief. {#3DD9AAC3}
 Het Raamwerk van geo-standaarden is geschreven voor iedereen die geodatasets vastlegt, uitwisselt en beheert en voor iedereen die informatiebeleid maakt. Het doel van het Raamwerk van geo-standaarden is om uit de grote verscheidenheid aan standaarden de juiste set te kiezen: die standaarden die nodig zijn om geodata vindbaar, toegankelijk, uitwisselbaar en herbruikbaar te maken. Wij baseren de keuzes voor standaarden in het Raamwerk op de volgende uitgangspunten: internationale aansluiting, volwassenheid en openheid van deze geo-standaarden en brede adoptie en gebruik. Het toepassen van de in dit Raamwerk opgenomen geo-standaarden, draagt bij aan een solide geo-informatie infrastructuur, in lijn met internationale ontwikkelingen en aansluitend op de nationale digitale overheid.
 <br/>
 <br/>
 Gebruikers, die in de praktijk werken met geo-standaarden hebben vragen over de toepassing ervan, willen weten welke geo-standaarden van toepassing zijn, welke versies actueel zijn en welke ontwikkelingen spelen, en hebben mogelijk suggesties voor aanpassingen van geo-standaarden. Aanpassingen of wijzigingen in het de geo-standaarden worden niet zomaar doorgevoerd; voor de ene gebruiker zal de wijziging gering zijn, voor de ander kan het grote gevolgen hebben.  Vandaar dat dit wijzigingsprotocol inzicht geeft in het wijzigingsproces van het Raamwerk van geo-standaarden, evenals de belangrijkste taken en verantwoordelijkheden van de betrokkenen (stakeholders) bij het onderhouden en gebruiken van het Raamwerk van geo-standaarden. De stakeholders worden op diverse momenten betrokken in dit proces.
+
 ## Waarom een wijzigingsprotocol {#59A549EF}
 In dit wijzigingsprotocol staan de sturende principes achter het wijzigingsproces voor het Raamwerk van geo-standaarden; de manier waarop wijzigingen in het Raamwerk van geo-standaarden plaatsvinden in afstemming met de stakeholders en gebruikers. Met het protocol wordt elke wijziging van het Raamwerk een voorspelbaar en transparant proces voor bronhouders, beheerders, software leveranciers en gebruikers van het Raamwerk. In het protocol zijn basisbegrippen en uitgangspunten uiteengezet voor het wijzigingsproces, bijvoorbeeld wat onder nieuwe en volgende versies van het Raamwerk verstaan wordt en wanneer deze nieuwe versie(s) verwacht mogen worden. Tevens is een processchema uitgewerkt, dat invulling geeft aan de stappen die de stakeholders met elkaar doorlopen om tot een wijziging van het Raamwerk van geo-standaarden te komen.
+
 ## Begrippen {#15344483}
 <table style='width: 100%;'><caption></caption>
 <colgroup><col id='col1' style='width: 30.78895233655751%;'>

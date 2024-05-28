@@ -1,4 +1,5 @@
 # Gebruik van het wijzigingsprotocol {#55CD880F}
+
 Het wijzigingsprotocol schrijft een vast stramien voor het wijzigen van de het Raamwerk van geo-standaarden voor. Het protocol benoemt de fasen en de op te leveren resultaten. Belangrijk zijn de randvoorwaarden en uitgangspunten. De gebruikers, deskundigen (experts) en andere stakeholders van het Raamwerk van geo-standaarden worden bij het wijzigen van het Raamwerk van geo-standaarden nauw betrokken.
 <br/>
 <br/>
@@ -10,6 +11,7 @@ Het wijzigingsprotocol voor het Raamwerk van geo-standaarden geeft:
 <li>Continuïteit aan het Raamwerk;</li>
 <li>Een eenduidige aanpak.</li>
 </ul>
+
 ## Releasebeleid {#3EE7FC49}
 ### Nieuwe versie van het Raamwerk {#64C6632B}
 Een release van een standaard is een nieuwe uitgave van het Raamwerk. De wijzigingen binnen een release wordt gedocumenteerd en vastgelegd in Bijlage A van het informatiemodel. De gebruiker kan zo nagaan op welke plaatsen de betreffen het Raamwerk gewijzigd is. De nieuwe release kenmerkt zich ten opzichte van de oude versie door een hoger versienummer. Bij de release is ieder product van het Raamwerk voorzien van een nieuw versienummer conform Semantic Versioning (SemVer). Binnen SemVer heeft elk product zijn eigen versienummer conform de X.Y.Z schrijfwijze, bijvoorbeeld versie 2.1.0 (=X.Y.Z):
@@ -23,6 +25,7 @@ Frequentie: op voorstel van Geonovum en in overleg met het Regie-overleg geo-sta
 </ul>
 Frequentie: zo spoedig mogelijk na constatering door Geonovum.
 Na het uitbrengen van een nieuwe versie van een standaard is deze nieuwe <a href='https://docs.geostandaarden.nl/rwgs/rw/' target='_blank'>versie</a> beschikbaar en vindbaar via de Geonovum <span style='color: #auto;'>website</span>, onderdeel samenhang geo-standaarden op de pagina <a href='https://www.geonovum.nl/themas/standaardisatie' target='_blank'>standaardisatie</a>.
+
 ### Oudere versie van het Raamwerk {#1E4463A2}
 De SemVer-methodiek schrijft backwards compatibility voor op het Y-niveau. Een nieuwe versie dwingt daarmee geen directe overstap af bij de gebruikers, tenzij anders (bijvoorbeeld wettelijk) bepaald. Na het uitbrengen van de nieuwe versie van het Raamwerk wordt de ontwikkeling van de oude versie stop gezet.
 Voor het onderhoud en de ondersteuning van een oude versie van een standaard gelden de volgende uitgangspunten:
@@ -30,6 +33,7 @@ Voor het onderhoud en de ondersteuning van een oude versie van een standaard gel
 <li>Bij oplevering van een nieuwe versie wordt de voorgaande versie nog een van te voren vastgestelde periode ondersteund. De duur van de overgangsperiode wordt mede bepaald door de omvang van de wijzigingen (X, Y en Z wijzigingen op de vorige versies), de staat van ontwikkeling van het Raamwerk, en of het Raamwerk in voorlopig dan wel permanent beheer is.</li>
 </ul>
 Na het uitbrengen van een nieuwe versie van een standaard blijven oudere versies beschikbaar en zijn vindbaar via het <a href='https://docs.geostandaarden.nl/rwgs/rw/' target='_blank'>Raamwerk van geo-standaarden</a> op de <a href='https://www.geonovum.nl/themas/standaardisatie' target='_blank'>Geonovum website</a>.
+
 ## Proces varianten {#317FB4EA}
 In paragraaf releasebeleid zijn de X, Y en Z wijzigingen uitgelegd. Wijzigingen kennen drie procesvarianten: eén voor X wijzigingen, één voor Y wijzigingen en één voor Z wijzigingen.
 De start van het proces is voor alle varianten hetzelfde. Op de website wordt een wijzigingsverzoek ingediend bij de <a href='https://www.geonovum.nl/over-geonovum/contact' target='_blank'><b>Helpdesk</b><b> geo-standaarden</b></a>. De impact van deze wijziging wordt door de  <b>Werkgroep Raamwerk van geo-standaarden </b>beoordeeld. Deze eerste impactanalyse beoordeelt tot welke SemVer categorie de wijziging hoort en wat de effecten van de wijziging zijn. Naast de impactanalyse wordt het wijzigingsverzoek .
@@ -37,6 +41,7 @@ De start van het proces is voor alle varianten hetzelfde. Op de website wordt 
 X en Y wijzigingen vergen volledige afstemming en het doorlopen van alle in paragraaf 5.1 beschreven fasen: Inhoud, Toetsing, Besluitvorming en Implementatie. Voor de inhoudelijke fase wordt een werkgroep gestart met daarin deskundigen (experts). Het resultaat van de werkgroep is een wijzigingsvoorstel dat in het standaardenoverleg van Geonovum en in het overleg van de <b>Regiegroep geo-standaarden</b> met externe stakeholders wordt besproken. Y en X wijzigingen worden altijd voorgelegd aan de <b>Programmaraad Geonovum</b>, die stelt een nieuwe versie van de Raamwerk van geo-standaarden vast.
 <b>Proces voor Z wijzigingen</b>
 In overleg met de Werkgroep Raamwerk van geo-standaarden worden Z wijzigingen in de volgende release opgenomen. De inhoudelijke fase wordt door het beheer van het Raamwerk uitgevoerd. Besluitvorming vindt plaats in afstemming met de Werkgroep. Implementatie vindt plaats door het publiceren van de wijziging op de <a href='https://www.geonovum.nl/geo-standaarden/raamwerk-geo-standaarden' target='_blank'>website</a>.
+
 ## Betrokkenen {#40EBAE8E}
 De volgende betrokkenen spelen een rol in het wijzigingsproces van het Raamwerk van geo-standaarden:
 <table style='width: 100%;'><caption></caption>

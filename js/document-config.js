@@ -2,8 +2,8 @@ var documentConfig =
 {
   title: "Wijzigingsprotocol raamwerk van geostandaarden",
   shortName: "wijzigingsprotocol",
-  pubDomain: "serv",
-  specStatus: "wv",
+  pubDomain: "rwgs",
+  specStatus: "vv",
   specType: "hr",
   license: "cc0",
   latestVersion: [
@@ -13,9 +13,9 @@ var documentConfig =
   thisVersion: [
     "https://geonovum.github.io/serv-wijzigingsprotocol/"
   ],
-  github: "https://github.com/geonovum/serv-wijzigingsprotocol/",
-  issueBase: "https://github.com/geonovum/serv-wijzigingsprotocol/issues/",
-  edDraftURI: "https://geonovum.github.io/serv-wijzigingsprotocol/",
+  github: "https://github.com/geonovum/rwgs-wijzigingsprotocol/",
+  issueBase: "https://github.com/geonovum/rwgs-wijzigingsprotocol/issues/",
+  edDraftURI: "https://geonovum.github.io/rwgs-wijzigingsprotocol/",
   editors: [
     {
       name: "Michel Grothe",

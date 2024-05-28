@@ -5,8 +5,6 @@ Het volledige wijzigingsproces doorloopt de fasen Inhoud, Toetsing, Besluitvormi
 <figure><img src='media/image4.png' alt='Afbeelding met Graphics, ontwerp' style='width: 65.30494155769009%;'></img>
 <figcaption><a href='https://geonovum.github.io/IMG-wijzigingsprotocol/' target='_blank'><span style='color: #0000FF;'><u>Figuur 1</u></span></a> Fasen wijzigingsproces</figcaption></figure>
 
-<br/>
-<br/>
 <b>Inhoud</b>
 In de fase inhoud wordt voor ieder wijzigingsverzoek bepaald of deze wordt opgenomen in de nieuwe versie van het Raamwerk of niet. Dit wordt door de <b>Helpdesk geo-standaarden</b> intern vastgelegd. Ieder wijzigingsverzoek dat wordt meegenomen in de nieuwe versie van het Raamwerk, wordt een impactanalyse uitgevoerd. Met deze impactanalyse beoordeelt ook tot welke SemVer categorie de wijziging hoort, of de geo-standaard voldoet aan de criteria om in het Raamwerk te worden opgenomen en evt. welke betrokken partijen geraakt worden door de wijziging en wat de secundaire effecten van de wijziging zijn.
 <br/>
