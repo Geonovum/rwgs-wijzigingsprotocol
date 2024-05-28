@@ -48,4 +48,4 @@ Het garanderen van het serieus nemen van klachten kan alleen door deze volgens e
 </ul>
 In het eerste geval is het feitelijk geen klacht maar een wens of eis tot het aanpassen van het Raamwerk. Het beheer van de betreffen het Raamwerk neemt de klacht in behandeling en neemt de klacht op als wijzigingsverzoek en niet als klacht. In dit geval doet Geonovum haar werk goed. 
 In het tweede geval is er sprake van ontevredenheid over de uitvoering van het beheerproces van het Raamwerk en betreft de klacht niet de inhoud, maar het Raamwerk zelf. De indiener is van mening dat Geonovum, dan wel de werkgroep het werk niet naar behoren uitvoert. In dat geval wordt de klacht doorgezet naar de Programmaraad.
-Het indienen van klachten loopt in principe via de <b>Helpdesk geo-standaarden</b>. 
+Het indienen van klachten loopt in principe via de **Helpdesk geo-standaarden**.

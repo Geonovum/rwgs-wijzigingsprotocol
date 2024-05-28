@@ -1,18 +1,19 @@
 # Gebruik van het wijzigingsprotocol {#55CD880F}
 
 Het wijzigingsprotocol schrijft een vast stramien voor het wijzigen van de het Raamwerk van geo-standaarden voor. Het protocol benoemt de fasen en de op te leveren resultaten. Belangrijk zijn de randvoorwaarden en uitgangspunten. De gebruikers, deskundigen (experts) en andere stakeholders van het Raamwerk van geo-standaarden worden bij het wijzigen van het Raamwerk van geo-standaarden nauw betrokken.
-<br/>
-<br/>
+
 Het wijzigingsprotocol voor het Raamwerk van geo-standaarden geeft:
-<ul><li>Inzicht in het behandel- en besluitproces dat ten grondslag ligt aan het versiebeheer;</li>
-<li>Inzicht in de wijzigingsverzoeken;</li>
-<li>Inzicht in een voorgestelde wijziging van het Raamwerk;</li>
-<li>Stabiliteit aan het Raamwerk;</li>
-<li>Continuïteit aan het Raamwerk;</li>
-<li>Een eenduidige aanpak.</li>
-</ul>
+
+- Inzicht in het behandel- en besluitproces dat ten grondslag ligt aan het versiebeheer;
+- Inzicht in de wijzigingsverzoeken;
+- Inzicht in een voorgestelde wijziging van het Raamwerk;
+- Stabiliteit aan het Raamwerk;
+- Continuïteit aan het Raamwerk;
+- Een eenduidige aanpak.
+
 
 ## Releasebeleid {#3EE7FC49}
+
 ### Nieuwe versie van het Raamwerk {#64C6632B}
 Een release van een standaard is een nieuwe uitgave van het Raamwerk. De wijzigingen binnen een release wordt gedocumenteerd en vastgelegd in Bijlage A van het informatiemodel. De gebruiker kan zo nagaan op welke plaatsen de betreffen het Raamwerk gewijzigd is. De nieuwe release kenmerkt zich ten opzichte van de oude versie door een hoger versienummer. Bij de release is ieder product van het Raamwerk voorzien van een nieuw versienummer conform Semantic Versioning (SemVer). Binnen SemVer heeft elk product zijn eigen versienummer conform de X.Y.Z schrijfwijze, bijvoorbeeld versie 2.1.0 (=X.Y.Z):
 <ul><li><b>X-wijziging.</b> Indien het Raamwerk van geo-standaarden een majeure update krijgt met relatief veel nieuwe en ingrijpende wijzigingen dan wordt het Raamwerk als geheel aangeduid met een X wijziging. </li>
