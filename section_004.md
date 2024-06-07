@@ -1,6 +1,6 @@
 # Inleiding {#7CA4157F}
 
-## Dit onderdeel is niet normatief. {#3DD9AAC3}
+*Dit onderdeel is niet normatief* {#3DD9AAC3}
 Het Raamwerk van geo-standaarden is geschreven voor iedereen die geodatasets vastlegt, uitwisselt en beheert en voor iedereen die informatiebeleid maakt. Het doel van het Raamwerk van geo-standaarden is om uit de grote verscheidenheid aan standaarden de juiste set te kiezen: die standaarden die nodig zijn om geodata vindbaar, toegankelijk, uitwisselbaar en herbruikbaar te maken. Wij baseren de keuzes voor standaarden in het Raamwerk op de volgende uitgangspunten: internationale aansluiting, volwassenheid en openheid van deze geo-standaarden en brede adoptie en gebruik. Het toepassen van de in dit Raamwerk opgenomen geo-standaarden, draagt bij aan een solide geo-informatie infrastructuur, in lijn met internationale ontwikkelingen en aansluitend op de nationale digitale overheid.
 <br/>
 <br/>

@@ -1,6 +1,6 @@
 var documentConfig =
 {
-  title: "Wijzigingsprotocol raamwerk van geostandaarden",
+  title: "Wijzigingsprotocol Raamwerk van geo-standaarden",
   shortName: "wijzigingsprotocol",
   pubDomain: "rwgs",
   specStatus: "vv",
