@@ -1,8 +1,9 @@
 # Wijzigingsproces {#501FAB48}
 De aanleiding voor een wijzigingsproces is gebaseerd op meldingen over de wensen en gevonden fouten in het <a href='https://docs.geostandaarden.nl/rwgs/rw/' target='_blank'>Raamwerk van geo-standaarden</a>. Dit zijn de wijzigingsverzoeken. Deze verzoeken worden door de Helpdesk geo-standaarden in behandeling genomen en in samenwerking met de werkgroep  <span style='color: #5E5E5E;'>Raamwerk van geo-standaarden </span>verwerkt tot een wijzigingsvoorstel voor het Raamwerk. De beheerder neemt het initiatief om een wijzigingsproces te starten, de stappen in het proces zijn conform dit wijzigingsprotocol.
+
 ## Fasen in het wijzigingsproces {#554554BA}
 Het volledige wijzigingsproces doorloopt de fasen Inhoud, Toetsing, Besluitvorming en Implementatie, zoals weergegeven in <a href='https://geonovum.github.io/IMG-wijzigingsprotocol/' target='_blank'><span style='color: #0000FF;'><u>Figuur 1</u></span></a>.
-<figure><img src='media/image4.png' alt='Afbeelding met Graphics, ontwerp' style='width: 65.30494155769009%;'></img>
+<figure><img src='media/image4.png' alt='Afbeelding met Graphics, ontwerp' style='width: 35%;'></img>
 <figcaption><a href='https://geonovum.github.io/IMG-wijzigingsprotocol/' target='_blank'><span style='color: #0000FF;'></span></a> Fasen wijzigingsproces</figcaption></figure>
 
 <b>Inhoud</b>
