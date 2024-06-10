@@ -60,11 +60,11 @@ De volgende betrokkenen spelen een rol in het wijzigingsproces van het Raamwerk 
 <td align='left' style='border-top: 0.75pt solid #DDDDDD; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; background-color: #F0F6FF;'><p id='2FABC3CA'>Het Regie-overleg heeft een diverse samenstelling van beheerders, gebruikersvertegenwoordigers en liaison met relevante standaarden organisaties. Het adviseert de Programmaraad, werkt in werkgroepen, agendeert binnen domeinstandaarden en informeert het programma Zicht op Nederland Datafundament.</span></td>
 </tr>
 <tr><td align='left' style='border-top: 0.75pt solid #DDDDDD; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; background-color: none;'><p id='19CAFEC7'><span style='color: #5E5E5E;'>Werkgroep Raamwerk van geo-standaarden</span></td>
-<td align='left' style='border-top: 0.75pt solid #DDDDDD; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; background-color: none;'><p id='1B9CE459'><span style='color: #5E5E5E;'>Adviseurs en experts geo-standaarden Geonovum</span></td>
+<td align='left' style='border-top: 0.75pt solid #DDDDDD; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; background-color: none;'><p id='1B9CE459'>Adviseurs en experts geo-standaarden Geonovum</span></td>
 </tr>
 <tr><td align='left' style='border-top: 0.75pt solid #DDDDDD; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; background-color: #F0F6FF;'><p id='7193A7AF'><span style='color: #5E5E5E;'>Helpdesk geo-standaarden</span></td>
 
-<td align='left' style='border-top: 0.75pt solid #DDDDDD; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; background-color: #F0F6FF;'><p id='4894E108'><span style='color: #5E5E5E;'>Adviseurs en experts geo-standaarden Geonovum</span></td>
+<td align='left' style='border-top: 0.75pt solid #DDDDDD; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; background-color: #F0F6FF;'><p id='4894E108'>Adviseurs en experts geo-standaarden Geonovum</span></td>
 </tr>
 <tr><td align='left' style='border-top: 0.75pt solid #DDDDDD; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; background-color: none;'></td>
 <td align='left' style='border-top: 0.75pt solid #DDDDDD; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; background-color: none;'></td>
