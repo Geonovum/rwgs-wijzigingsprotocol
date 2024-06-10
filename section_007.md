@@ -3,13 +3,9 @@ Het in gebruik nemen van (een nieuwe versie van) het Raamwerk van geo-standaarde
 <ul><li>Het verzorgen van een opleiding en/of advies over het gebruik (optioneel);</li>
 <li>De communicatie.</li>
 </ul>
-<br/>
-<br/>
 
 ## Opleiding en advies {#064739D0}
 Opleiding en advies kunnen van toegevoegde waarde zijn voor implementatie ondersteuning van de gebruikers van het Raamwerk van geo-standaarden. Middelen als documentatie, bijeenkomsten en workshops worden ingezet om de kennis over de wijzigingen in nieuwe Raamwerk te delen en te ondersteunen bij de implementatie. Ook publicaties in vakbladen kunnen worden ingezet ter ondersteuning.
-<br/>
-<br/>
 
 ## Communicatie {#09C256A8}
 Het hele wijzigingsproces staat of valt met een goede communicatie. Onder goede communicatie wordt verstaan het tijdig leveren van de juiste informatie aan de juiste belanghebbenden. Dit betreft de proceskant alsook de producten die er worden opgeleverd.
@@ -66,4 +62,4 @@ Het garanderen van het serieus nemen van klachten kan alleen door deze volgens e
 </ul>
 In het eerste geval is het feitelijk geen klacht maar een wens of eis tot het aanpassen van het Raamwerk. Het beheer van de betreffen het Raamwerk neemt de klacht in behandeling en neemt de klacht op als wijzigingsverzoek en niet als klacht. In dit geval doet Geonovum haar werk goed. 
 In het tweede geval is er sprake van ontevredenheid over de uitvoering van het beheerproces van het Raamwerk en betreft de klacht niet de inhoud, maar het Raamwerk zelf. De indiener is van mening dat Geonovum, dan wel de werkgroep het werk niet naar behoren uitvoert. In dat geval wordt de klacht doorgezet naar de Programmaraad.
-Het indienen van klachten loopt in principe via de **Helpdesk geo-standaarden**.
+Het indienen van klachten loopt in principe via de Helpdesk geo-standaarden.
