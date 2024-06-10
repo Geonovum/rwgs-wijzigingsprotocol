@@ -22,12 +22,18 @@ Bij Besluitvorming wordt besloten om de gewijzigde vast te stellen en te publice
 <br/>
 <b>Implementatie</b>
 Het verwerken van het wijzigingsvoorstel in het Raamwerk van geo-standaarden staat centraal in deze fase. Dit wordt gedaan door de <b>Werkgroep geo-standaarden. </b>
+
 ## Het wijzigingsproces in detail {#11E18F34}
 De meldingen en wijzigingsverzoeken alsook (inter)nationale ontwikkelingen geven aanleiding tot de verdere ontwikkeling voor een standaard. Het wijzigingsproces dat dit wijzigingsvoorstel doorloopt bestaat uit tien stappen, die in onderstaande Figuur 2 in onderlinge samenhang zijn weergegeven. In deze figuur zijn processen, besluiten en de relevante actoren en actorgroepen en hun interacties opgenomen. Iedere processtap is vervolgens kort beschreven.
 <br/>
 <br/>
 <figure><img src='media/image5.jpeg' alt='Afbeelding met tekst, schermopname, diagram, nummer' style='width: 100%;'></img>
-<figcaption><span style='color: #0000FF;'></span><a href='https://geonovum.github.io/IMG-wijzigingsprotocol/' target='_blank'><span style='color: #0000FF;'><u>Figuur 2</u></span></a> Processchema wijzigingsbeheer Raamwerk van geo-standaarden</figcaption></figure>
+<figcaption><span style='color: #0000FF;'></span><a href='https://geonovum.github.io/IMG-wijzigingsprotocol/' target='_blank'><span style='color: #0000FF;'></u></span></a> Processchema wijzigingsbeheer Raamwerk van geo-standaarden</figcaption></figure>
+
+<figure id="Figuur_x"> 
+<a href="media/image5.svg" target="_blank"><img src="media/image5.svg" alt=""></a>
+<figcaption>Processchema wijzigingsbeheer Raamwerk van geo-standaarden</figcaption>
+</figure>
 
 <b>Processtappen</b>
 De volgende processtappen worden doorlopen om te komen tot wijzigingen in de Raamwerk van geo-standaarden.
