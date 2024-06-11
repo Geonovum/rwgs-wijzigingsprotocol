@@ -19,9 +19,13 @@ Wijzigingen in het Raamwerk van geo-standaarden worden bekendgemaakt via de <a h
 <br/>
 <br/>
 <b>Nieuwsbrief</b>
+<br/>
+<br/>
 Wijzigingen in het Raamwerk van geo-standaarden worden bekendgemaakt in de geo-standaarden nieuwsbrief van Geonovum.
 <br/>
 <br/>
 <b>Publieke consultatie</b>
+<br/>
+<br/>
 Bij X en Y-wijzigingen wordt in sommige gevallen een publieke consultatie in het wijzigingsproces gehouden. De wijzigingen in het Raamwerk wordt dan voor een bepaalde, afgesproken periode voor gelegd ter commentaar aan alle belanghebbenden en geïnteresseerden door middel van een publieke consultatie via de <a href='https://www.geonovum.nl/geo-standaarden/raamwerk-geo-standaarden' target='_blank'>Geonovum website</a> en de nieuwsbrief geo-standaarden van Geonovum.
 

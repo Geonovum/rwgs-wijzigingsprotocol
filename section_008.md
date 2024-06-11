@@ -13,18 +13,26 @@ Uit het werkveld kunnen signalen ontstaan dat met spoed een wijziging doorgevoer
 <br/>
 <br/>
 <b>Overleg</b>
+<br/>
+<br/>
 Bij de besluitvorming binnen de escalatieprocedure wordt er in principe overleg gevoerd tussen de opdrachtgever voor het beheer van de betreffende standaard en Geonovum. Beide partijen raadplegen de betrokkenen daar waar nodig.
 <br/>
 <br/>
 <b>Besluitvorming</b>
+<br/>
+<br/>
 De beoordeling of de escalatieprocedure van toepassing is, wordt genomen door de trekker van het Basisprogramma, dan wel de contactpersoon bij de Programmaraad. Ook het besluit <i>welke </i>wijzigingen er precies doorgevoerd moeten worden en op welke manier, wordt genomen door dezelfde persoon.
 <br/>
 <br/>
 <b>Coördinatie</b>
+<br/>
+<br/>
 De coördinatie tijdens de escalatieprocedure wordt uitgevoerd door de trekker van het Basisprogramma, dan wel de contactpersoon bij de Programmaraad.
 <br/>
 <br/>
 <b>Communicatie met het werkveld</b>
+<br/>
+<br/>
 De communicatie met het werkveld wordt uitgevoerd door Geonovum. Als beheerder van het Raamwerk wordt verwacht dat Geonovum het meest directe contacten heeft met het werkveld.
 
 ## Klachtenafhandeling {#66D79BE4}
