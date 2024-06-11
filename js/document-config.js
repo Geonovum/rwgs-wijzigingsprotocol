@@ -3,7 +3,7 @@ var documentConfig =
   title: "Wijzigingsprotocol Raamwerk van geo-standaarden",
   shortName: "wijzigingsprotocol",
   pubDomain: "rwgs",
-  specStatus: "vv",
+  specStatus: "def",
   specType: "hr",
   license: "cc0",
   latestVersion: [
