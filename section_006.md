@@ -2,9 +2,11 @@
 De aanleiding voor een wijzigingsproces is gebaseerd op meldingen over de wensen en gevonden fouten in het <a href='https://docs.geostandaarden.nl/rwgs/rw/' target='_blank'>Raamwerk van geo-standaarden</a>. Dit zijn de wijzigingsverzoeken. Deze verzoeken worden door de Helpdesk geo-standaarden in behandeling genomen en in samenwerking met de werkgroep  <span style='color: #5E5E5E;'>Raamwerk van geo-standaarden </span>verwerkt tot een wijzigingsvoorstel voor het Raamwerk. De beheerder neemt het initiatief om een wijzigingsproces te starten, de stappen in het proces zijn conform dit wijzigingsprotocol.
 
 ## Fasen in het wijzigingsproces {#554554BA}
-Het volledige wijzigingsproces doorloopt de fasen Inhoud, Toetsing, Besluitvorming en Implementatie, zoals weergegeven in <a href='https://geonovum.github.io/IMG-wijzigingsprotocol/' target='_blank'><span style='color: #0000FF;'><u>Figuur 1</u></span></a>.
+
+Het volledige wijzigingsproces doorloopt de fasen Inhoud, Toetsing, Besluitvorming en Implementatie, zoals weergegeven in figuur 1.
+
 <figure><img src='media/image4.png' alt='Afbeelding met Graphics, ontwerp' style='width: 35%;'></img>
-<figcaption><a href='https://geonovum.github.io/IMG-wijzigingsprotocol/' target='_blank'><span style='color: #0000FF;'></span></a> Fasen wijzigingsproces</figcaption></figure>
+<figcaption><a href='https://geonovum.github.io/IMG-wijzigingsprotocol/' target='_blank'><span style='color: #0000FF;'></span></a>Fasen wijzigingsproces</figcaption></figure>
 
 <b>Inhoud</b>
 In de fase inhoud wordt voor ieder wijzigingsverzoek bepaald of deze wordt opgenomen in de nieuwe versie van het Raamwerk of niet. Dit wordt door de <b>Helpdesk geo-standaarden</b> intern vastgelegd. Ieder wijzigingsverzoek dat wordt meegenomen in de nieuwe versie van het Raamwerk, wordt een impactanalyse uitgevoerd. Met deze impactanalyse beoordeelt ook tot welke SemVer categorie de wijziging hoort, of de geo-standaard voldoet aan de criteria om in het Raamwerk te worden opgenomen en evt. welke betrokken partijen geraakt worden door de wijziging en wat de secundaire effecten van de wijziging zijn.
@@ -25,11 +27,11 @@ Bij Besluitvorming wordt besloten om de gewijzigde vast te stellen en te publice
 Het verwerken van het wijzigingsvoorstel in het Raamwerk van geo-standaarden staat centraal in deze fase. Dit wordt gedaan door de <b>Werkgroep geo-standaarden. </b>
 
 ## Het wijzigingsproces in detail {#11E18F34}
-De meldingen en wijzigingsverzoeken alsook (inter)nationale ontwikkelingen geven aanleiding tot de verdere ontwikkeling voor een standaard. Het wijzigingsproces dat dit wijzigingsvoorstel doorloopt bestaat uit tien stappen, die in onderstaande Figuur 2 in onderlinge samenhang zijn weergegeven. In deze figuur zijn processen, besluiten en de relevante actoren en actorgroepen en hun interacties opgenomen. Iedere processtap is vervolgens kort beschreven.
+De meldingen en wijzigingsverzoeken alsook (inter)nationale ontwikkelingen geven aanleiding tot de verdere ontwikkeling voor een standaard. Het wijzigingsproces dat dit wijzigingsvoorstel doorloopt bestaat uit tien stappen, die in onderstaande figuur 2 in onderlinge samenhang zijn weergegeven. In deze figuur zijn processen, besluiten en de relevante actoren en actorgroepen en hun interacties opgenomen. Iedere processtap is vervolgens kort beschreven.
 <br/>
 <br/>
 
-<figure id="Figuur_x"> 
+<figure id="Figuur_x">
 <a href="media/image5.svg" target="_blank"><img src="media/image5.svg" alt=""></a>
 <figcaption>Processchema wijzigingsbeheer Raamwerk van geo-standaarden</figcaption>
 </figure>
