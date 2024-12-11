@@ -32,7 +32,7 @@ De meldingen en wijzigingsverzoeken alsook (inter)nationale ontwikkelingen geven
 <br/>
 
 <figure id="Figuur_x">
-<a href="media/image5.svg" target="_blank"><img src="media/image5.svg" alt=""></a>
+<a href="media/image5.svg" target="_blank"><img src="media/image5.svg" alt="processchema wijzigingsbeheer"></a>
 <figcaption>Processchema wijzigingsbeheer Raamwerk van geo-standaarden</figcaption>
 </figure>
 
