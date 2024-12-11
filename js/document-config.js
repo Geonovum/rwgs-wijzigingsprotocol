@@ -6,9 +6,6 @@ var documentConfig =
   specStatus: "def",
   specType: "hr",
   license: "cc0",
-  latestVersion: [
-    "https://docs.geostandaarden.nl/serv/wijzigingsprotocol/"
-  ],
   publishDate: "2024-05-28",
   github: "https://github.com/geonovum/rwgs-wijzigingsprotocol/",
   issueBase: "https://github.com/geonovum/rwgs-wijzigingsprotocol/issues/",
