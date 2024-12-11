@@ -16,16 +16,16 @@ Het wijzigingsprotocol voor het Raamwerk van geo-standaarden geeft:
 
 ### Nieuwe versie van het Raamwerk {#64C6632B}
 Een release van een standaard is een nieuwe uitgave van het Raamwerk. De wijzigingen binnen een release wordt gedocumenteerd en vastgelegd in Bijlage A van het informatiemodel. De gebruiker kan zo nagaan op welke plaatsen de betreffen het Raamwerk gewijzigd is. De nieuwe release kenmerkt zich ten opzichte van de oude versie door een hoger versienummer. Bij de release is ieder product van het Raamwerk voorzien van een nieuw versienummer conform Semantic Versioning (SemVer). Binnen SemVer heeft elk product zijn eigen versienummer conform de X.Y.Z schrijfwijze, bijvoorbeeld versie 2.1.0 (=X.Y.Z):
-<ul><li><b>X-wijziging.</b> Indien het Raamwerk van geo-standaarden een majeure update krijgt met relatief veel nieuwe en ingrijpende wijzigingen dan wordt het Raamwerk als geheel aangeduid met een X wijziging. </li>Frequentie: op voorstel van Geonovum en in overleg met het Regie-overleg geo-standaarden.
+<ul><li><b>X-wijziging.</b> Indien het Raamwerk van geo-standaarden een majeure update krijgt met relatief veel nieuwe en ingrijpende wijzigingen dan wordt het Raamwerk als geheel aangeduid met een X wijziging. Frequentie: op voorstel van Geonovum en in overleg met het Regie-overleg geo-standaarden.</li>
 </ul>
-<ul><li><b>Y-wijziging.</b> Indien het Raamwerk van geo-standaarden een beperkte update krijgt met een relatief klien aantal en minder ingrijpende wijzigingen dan wordt het Raamwerk als geheel aangeduid met een Y wijziging.  </li>
+<ul><li><b>Y-wijziging.</b> Indien het Raamwerk van geo-standaarden een beperkte update krijgt met een relatief klien aantal en minder ingrijpende wijzigingen dan wordt het Raamwerk als geheel aangeduid met een Y wijziging.  
+Frequentie: op voorstel van Geonovum en in overleg met het Regie-overleg geo-standaarden.</li>
 </ul>
-Frequentie: op voorstel van Geonovum en in overleg met het Regie-overleg geo-standaarden.
-<ul><li><b>Z-wijziging. </b>Dit zijn bugs/fouten of aanvullingen in een toelichting, die geen impact hebben op de geo-standaarden en hun versie aanduiding. </li>
+<ul><li><b>Z-wijziging. </b>Dit zijn bugs/fouten of aanvullingen in een toelichting, die geen impact hebben op de geo-standaarden en hun versie aanduiding. 
+Frequentie: zo spoedig mogelijk na constatering door Geonovum.</li>
 </ul>
-Frequentie: zo spoedig mogelijk na constatering door Geonovum.
 <br>
-Na het uitbrengen van een nieuwe versie van een standaard is deze nieuwe versie beschikbaar en vindbaar via de Geonovum <span style='color: #auto;'>website</span>, onderdeel samenhang geo-standaarden op de pagina <a href='https://www.geonovum.nl/themas/standaardisatie' target='_blank'>standaardisatie</a>.
+Na het uitbrengen van een nieuwe versie van een standaard is deze nieuwe versie beschikbaar en vindbaar via de Geonovum website, onderdeel samenhang geo-standaarden op de pagina <a href='https://www.geonovum.nl/themas/standaardisatie' target='_blank'>standaardisatie</a>.
 
 ### Oudere versie van het Raamwerk {#1E4463A2}
 De SemVer-methodiek schrijft backwards compatibility voor op het Y-niveau. Een nieuwe versie dwingt daarmee geen directe overstap af bij de gebruikers, tenzij anders (bijvoorbeeld wettelijk) bepaald. Na het uitbrengen van de nieuwe versie van het Raamwerk wordt de ontwikkeling van de oude versie stop gezet.
@@ -49,25 +49,25 @@ De volgende betrokkenen spelen een rol in het wijzigingsproces van het Raamwerk 
 <colgroup><col id='col1' style='width: 24.973779279804216%;'>
 <col id='col2' style='width: 75.02622072019578%;'>
 </colgroup>
-<thead valign='top'><tr><th align='left' style='border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; background-color: #005A9C;'><p id='502496B4'><b><span style='color: #FFFFFF;'>Rol</span></b></th>
-<th align='left' style='border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; background-color: #D3D3D3;'><p id='26B64FBC'><b><span style='color: #FFFFFF;'>Stakeholder</span></b></th>
+<thead><tr><th style='border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;'><p id='502496B4'><b><span style='color: #FFFFFF;'>Rol</span></b></th>
+<th style='border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; '>Stakeholder</span></b></th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.75pt solid #DDDDDD; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; background-color: none;'><p id='79779D62'>Opdrachtgever (eigenaar) van het Raamwerk van geo-standaarden</span></td>
-<td align='left' style='border-top: 0.75pt solid #DDDDDD; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; background-color: none;'><p id='7CDDA5B2'>Programmaraad van Geonovum bestaande uit vertegenwoordigers van Kadaster, Ministerie van EZK en Ministerie van LNV, Provincie Gelderland namens de provincies en het Interprovinciaal Overleg (IPO), Ministerie van Defensie - Dienst der Hydrografie, Rijkswaterstaat, Ministerie van BZK, Geologische Dienst Nederland TNO, Vereniging van Nederlandse Gemeenten.</td>
+<tbody><tr><td style='border-top: 0.75pt solid #DDDDDD; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; '><p id='79779D62'>Opdrachtgever (eigenaar) van het Raamwerk van geo-standaarden</span></td>
+<td style='border-top: 0.75pt solid #DDDDDD; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; '><p id='7CDDA5B2'>Programmaraad van Geonovum bestaande uit vertegenwoordigers van Kadaster, Ministerie van EZK en Ministerie van LNV, Provincie Gelderland namens de provincies en het Interprovinciaal Overleg (IPO), Ministerie van Defensie - Dienst der Hydrografie, Rijkswaterstaat, Ministerie van BZK, Geologische Dienst Nederland TNO, Vereniging van Nederlandse Gemeenten.</td>
 </tr>
-<tr><td align='left' style='border-top: 0.75pt solid #DDDDDD; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; background-color: #F0F6FF;'><p id='20E94293'>Regie-overleg geo-standaarden</span></td>
-<td align='left' style='border-top: 0.75pt solid #DDDDDD; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; background-color: #F0F6FF;'><p id='2FABC3CA'>Het Regie-overleg heeft een diverse samenstelling van beheerders, gebruikersvertegenwoordigers en liaison met relevante standaarden organisaties. Het adviseert de Programmaraad, werkt in werkgroepen, agendeert binnen domeinstandaarden en informeert het programma Zicht op Nederland Datafundament.</span></td>
+<tr><td style='border-top: 0.75pt solid #DDDDDD; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; '><p id='20E94293'>Regie-overleg geo-standaarden</span></td>
+<td style='border-top: 0.75pt solid #DDDDDD; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; '><p id='2FABC3CA'>Het Regie-overleg heeft een diverse samenstelling van beheerders, gebruikersvertegenwoordigers en liaison met relevante standaarden organisaties. Het adviseert de Programmaraad, werkt in werkgroepen, agendeert binnen domeinstandaarden en informeert het programma Zicht op Nederland Datafundament.</span></td>
 </tr>
-<tr><td align='left' style='border-top: 0.75pt solid #DDDDDD; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; background-color: none;'><p id='19CAFEC7'>Werkgroep Raamwerk van geo-standaarden</span></td>
-<td align='left' style='border-top: 0.75pt solid #DDDDDD; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; background-color: none;'><p id='1B9CE459'>Adviseurs en experts geo-standaarden Geonovum</span></td>
+<tr><td style='border-top: 0.75pt solid #DDDDDD; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; '><p id='19CAFEC7'>Werkgroep Raamwerk van geo-standaarden</span></td>
+<td style='border-top: 0.75pt solid #DDDDDD; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; '><p id='1B9CE459'>Adviseurs en experts geo-standaarden Geonovum</span></td>
 </tr>
-<tr><td align='left' style='border-top: 0.75pt solid #DDDDDD; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; background-color: #F0F6FF;'><p id='7193A7AF'>Helpdesk geo-standaarden</span></td>
+<tr><td style='border-top: 0.75pt solid #DDDDDD; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; '><p id='7193A7AF'>Helpdesk geo-standaarden</span></td>
 
-<td align='left' style='border-top: 0.75pt solid #DDDDDD; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; background-color: #F0F6FF;'><p id='4894E108'>Adviseurs en experts geo-standaarden Geonovum</span></td>
+<td style='border-top: 0.75pt solid #DDDDDD; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; '><p id='4894E108'>Adviseurs en experts geo-standaarden Geonovum</span></td>
 </tr>
-<tr><td align='left' style='border-top: 0.75pt solid #DDDDDD; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; background-color: none;'></td>
-<td align='left' style='border-top: 0.75pt solid #DDDDDD; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; background-color: none;'></td>
+<tr><td style='border-top: 0.75pt solid #DDDDDD; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; '></td>
+<td style='border-top: 0.75pt solid #DDDDDD; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; '></td>
 </tr>
 </tbody>
 </table>
